@@ -1,0 +1,12 @@
+# ninja log v5
+3	238	6851281204674972	CMakeFiles/cmake_testapp.dir/main.cpp.obj	fb56e4dbdea3a0d
+0	121	6851281609122941	build.ninja	1d4d9e0417de7266
+238	308	6851281205334967	cmake_testapp.exe	cee4142dd4929c1e
+5	248	6851271925622110	CMakeFiles/cmake_testapp.dir/calc.cpp.obj	706e76b7a620173c
+2	270	6851272030550840	CMakeFiles/camke_testapp_calc.dir/main.cpp.obj	43e66a9d94737cfb
+6	266	6851272030505839	CMakeFiles/camke_testapp_calc.dir/calc.cpp.obj	e3a91236b8286e2e
+8	255	6851274600096077	CMakeFiles/test_library.dir/calc.cpp.obj	8a0b6d183261f8d0
+2	64	6851272089030250	libtest_library.a	fc5cfc06fd433bfa
+2	244	6851296071935430	CMakeFiles/test_library.dir/calc.cpp.obj	8a0b6d183261f8d0
+244	301	6851296072510590	libtest_library.a	fc5cfc06fd433bfa
+2	77	6851296224396617	cmake_testapp.exe	a62aaf3e97f971eb
